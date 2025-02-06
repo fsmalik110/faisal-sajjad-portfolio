@@ -1,4 +1,4 @@
-# faisal-sajjad-portfolio
+# Faisal-Sajjad-portfolio
 
 Welcome to my portfolio! I'm **Faisal Sajjad**, a Medical Physics Student at **COMSATS University Islamabad, Lahore Campus (CUI '25)**.  
 I specialize in **Machine Learning, ETL, Python, SQL, MATLAB, and Deep Learning**, with a focus on **Precision Cancer Imaging Techniques**.
